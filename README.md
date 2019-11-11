@@ -1,4 +1,4 @@
-#Library Database Project
+# Library Database Project
 
 SQL Server 2017 library database with stored procedures to query inventory. 
 
